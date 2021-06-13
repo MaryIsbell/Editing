@@ -1,5 +1,3 @@
-# LITTLE RED RIDING-HOOD
-
 ONCE upon a time there lived in a certain village a little country
 girl, the prettiest creature was ever seen. Her mother was
 excessively fond of her ; and her grandmother doted on her still
@@ -43,12 +41,12 @@ tap, tap.
 
 'Your grandchild, Little Red Riding-Hood,' replied the Wolf,
 
-<!--<fw>[E2</fw>
 
-<fw>52
+**<p style="text-align: right;">E2</p>** 
 
-LITTLE RED RIDING-HOOD]</fw><-->
 ---
+ **<p style="text-align: center;">LITTLE RED RIDING-HOOD</p>** **<p style="text-align: right;">53</p>**
+
 counterfeiting her voice ;'who has brought you a custard and a
 little pot of butter sent you by mamma.'
 
