@@ -1,4 +1,4 @@
-LITTLE RED RIDING-HOOD
+# LITTLE RED RIDING-HOOD
 
 ONCE upon a time there lived in a certain village a little country
 girl, the prettiest creature was ever seen. Her mother was
@@ -24,7 +24,7 @@ dangerous to stay and hear a wolf talk, said to him:
 'I am going to see my grandmamma and carry her a custard
 and a little pot of butter from my mamma.'
 
-'Does she live far off ?' said the Wolf.
+'Does she live far off ?' said the Wolf.[^1]
 
 'Oh ! ay,' answered Little Red Riding-Hood ;' it is beyond that
 mill you see there, at the first house in the village.'
@@ -43,12 +43,12 @@ tap, tap.
 
 'Your grandchild, Little Red Riding-Hood,' replied the Wolf,
 
-<fw>[E2</fw>
+<!--<fw>[E2</fw>
 
 <fw>52
 
-LITTLE RED RIDING-HOOD]</fw>
-
+LITTLE RED RIDING-HOOD]</fw><-->
+---
 counterfeiting her voice ;'who has brought you a custard and a
 little pot of butter sent you by mamma.'
 
@@ -74,11 +74,11 @@ was hoarse, answered:
 ''Tis your grandchild, Little Red Riding-Hood, who has brought
 you a custard and a little pot of butter mamma sends you.'
 
-<fw>LITTLE RED RIDING-HOOD 53</fw>
+<!--<fw>LITTLE RED RIDING-HOOD 53</fw><-->
 
 The Wolf cried out to her, softening his voice as much as he could:
 
-'Pull the bobbin, and the latch will go up.'
+'Pull the bobbin, and the latch will go up.'[^2]
 
 Little Red Riding-Hood pulled the bobbin, and the door opened.
 
@@ -106,3 +106,5 @@ in her night-clothes, she said to her:
 
 And, saying these words, this wicked wolf fell upon Little Red
 Riding-Hood, and ate her all up.
+[^1]:This is the comments from a student. It is very smart *Title of Work*. 
+[^2]:This is another comment from a student. It is very smart
