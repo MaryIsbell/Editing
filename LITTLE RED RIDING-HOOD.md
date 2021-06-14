@@ -1,9 +1,4 @@
-ONCE upon a time there lived in a certain village a little country
-girl, the prettiest creature was ever seen. Her mother was
-excessively fond of her ; and her grandmother doted on her still
-more. This good woman got made for her a little red riding-hood ;
-which became the girl so extremely well that everybody called her
-Little Red Riding-Hood.
+ONCE upon a time there lived in a certain village a little country girl, the prettiest creature was ever seen. Her mother was excessively fond of her ; and her grandmother doted on her still more. This good woman got made for her a little red riding-hood; which became the girl so extremely well that everybody called her Little Red Riding-Hood.
 
 One day her mother, having made some custards, said to her:
 
