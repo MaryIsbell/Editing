@@ -101,4 +101,4 @@ in her night-clothes, she said to her:
 And, saying these words, this wicked wolf fell upon Little Red
 Riding-Hood, and ate her all up.
 [^1]:This is the comments from a student. It is very smart *Title of Work*. 
-[^2]:This comment has been changed for this new edition. It now explains things a little differently and it includes a *citation* and the initials of the contributors VRM (this can be looked up in the frontmatter?)
+[^2]:This comment has been changed for this new edition. It now explains things a little differently and it includes a *citation*. Contributors: [VRM, YTS, IUP](https://press.rebus.community/transforming/front-matter/37/)
