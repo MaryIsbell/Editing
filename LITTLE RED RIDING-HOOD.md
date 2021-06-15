@@ -55,19 +55,17 @@ presently he fell upon the good woman and ate her up in a moment,
 for it was above three days that he had not touched a bit. He
 
 then shut the door and went into the grandmother's bed, expecting
-Little Eed Riding-Hood, who came some time afterwards and
+Little Red Riding-Hood, who came some time afterwards and
 knocked at the door tap, tap.
 
 'Who's there ?'
 
-Little Eed Eiding-Hood, hearing the big voice of the Wolf, was
+Little Red Riding-Hood, hearing the big voice of the Wolf, was
 at first afraid ; but believing her grandmother had got a cold and
 was hoarse, answered:
 
 ''Tis your grandchild, Little Red Riding-Hood, who has brought
 you a custard and a little pot of butter mamma sends you.'
-
-
 
 [![53](https://live.staticflickr.com/65535/51246931202_c4a8157ee6_w_d.jpg)](https://archive.org/details/bluefairybook00langiala/page/53/mode/1up)
 
