@@ -67,8 +67,11 @@ was hoarse, answered:
 ''Tis your grandchild, Little Red Riding-Hood, who has brought
 you a custard and a little pot of butter mamma sends you.'
 
-<!--<fw>LITTLE RED RIDING-HOOD 53</fw><-->
 
+
+[![53](https://live.staticflickr.com/65535/51246931202_c4a8157ee6_w_d.jpg)](https://archive.org/details/bluefairybook00langiala/page/53/mode/1up)
+
+---
 The Wolf cried out to her, softening his voice as much as he could:
 
 'Pull the bobbin, and the latch will go up.'[^2]
