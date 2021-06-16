@@ -2,35 +2,22 @@ ONCE upon a time there lived in a certain village a little country girl, the pre
 
 One day her mother, having made some custards, said to her:
 
-' Go, my dear, and see how thy grandmamma does, for I hear she
-has been very ill ; carry her a custard, and this little pot of butter.'
+' Go, my dear, and see how thy grandmamma does, for I hear she has been very ill ; carry her a custard, and this little pot of butter.'
 
-Little Red Riding-Hood set out immediately to go to her
-grandmother, who lived in another village.
+Little Red Riding-Hood set out immediately to go to her grandmother, who lived in another village.
 
-As she was going through the wood, she met with Gaffer Wolf,
-who had a very great mind to eat her up, but he durst not, because
-of some faggot-makers hard by in the forest. He asked her whither
-she was going. The poor child, who did not know that it was
-dangerous to stay and hear a wolf talk, said to him:
+As she was going through the wood, she met with Gaffer Wolf, who had a very great mind to eat her up, but he durst not, because of some faggot-makers hard by in the forest. He asked her whither she was going. The poor child, who did not know that it was dangerous to stay and hear a wolf talk, said to him:
 
-'I am going to see my grandmamma and carry her a custard
-and a little pot of butter from my mamma.'
+'I am going to see my grandmamma and carry her a custard and a little pot of butter from my mamma.'
 
 'Does she live far off ?' said the Wolf.[^1]
 
-'Oh ! ay,' answered Little Red Riding-Hood ;' it is beyond that
+'Oh ! say,' answered Little Red Riding-Hood ;' it is beyond that
 mill you see there, at the first house in the village.'
 
-'Well,' said the Wolf,' and I'll go and see her too. I'll go this
-way and go you that, and we shall see who will be there soonest.'
+'Well,' said the Wolf,' and I'll go and see her too. I'll go this way and go you that, and we shall see who will be there soonest.'
 
-The Wolf began to run as fast as he could, taking the nearest
-way, and the little girl went by that farthest about, diverting her-
-self in gathering nuts, running after butterflies, and making nose-
-gays of such little flowers as she met with. The Wolf was not long
-before he got to the old woman's house. He knocked at the door
-tap, tap.
+The Wolf began to run as fast as he could, taking the nearest way, and the little girl went by that farthest about, diverting her-self in gathering nuts, running after butterflies, and making nose- gays of such little flowers as she met with. The Wolf was not long before he got to the old woman's house. He knocked at the door tap, tap.
 
 'Who's there ?'
 
