@@ -23,11 +23,9 @@ The Wolf began to run as fast as he could, taking the nearest way, and the littl
 
 'Your grandchild, Little Red Riding-Hood,' replied the Wolf,
 
-
-**<p style="text-align: right;">E2</p>** 
+**51: [View Page Image](https://archive.org/details/bluefairybook00langiala/page/51/mode/1up)**
 
 ---
- **<p style="text-align: center;">LITTLE RED RIDING-HOOD</p>** **<p style="text-align: right;">53</p>**
 
 counterfeiting her voice ;'who has brought you a custard and a
 little pot of butter sent you by mamma.'
