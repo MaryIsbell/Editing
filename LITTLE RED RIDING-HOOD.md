@@ -85,7 +85,11 @@ in her night-clothes, she said to her:
 
 And, saying these words, this wicked wolf fell upon Little Red
 Riding-Hood, and ate her all up.
-[^1]:This is the comments from a student. It is very smart *Title of Work*. 
+[^1]:These are comments from a student. *Title of Work*. 
 [^2]:This comment has been changed for this new edition. It now explains things a little differently and it includes a *citation*. Contributors: [VRM, YTS, IUP](https://press.rebus.community/transforming/front-matter/37/)
 
+---
 54:[![53](https://live.staticflickr.com/65535/51263740510_48ee1fb9f2_q_d.jpg)](https://archive.org/details/bluefairybook00langiala/page/54/mode/1up)
+
+---
+beginning of next page
