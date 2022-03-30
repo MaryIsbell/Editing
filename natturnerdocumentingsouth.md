@@ -1,34 +1,34 @@
 
-<!--Text scanned (OCR) by Kevin O\'Kelly\
-Image scanned by Carlene Hempel\
-Text encoded by Carlene Hempel and Natalia Smith\
-First edition, 1999\
-ca. 80K\
-Academic Affairs Library, UNC-CH\
-University of North Carolina at Chapel Hill,\
-1999.\
+<!--Text scanned (OCR) by Kevin O'Kelly
+Image scanned by Carlene Hempel
+Text encoded by Carlene Hempel and Natalia Smith
+First edition, 1999
+ca. 80K
+Academic Affairs Library, UNC-CH
+University of North Carolina at Chapel Hill,
+1999.
 
 [![No Copyright in
 US](https://imageserv.lib.unc.edu/rights/noc-us.png)](http://rightsstatements.org/vocab/NoC-US/1.0/)
 
 #### Call number VCC326.92 T95 1831 (North Carolina Collection, UNC-CH)
 
-\
+
 
 ------------------------------------------------------------------------
 
         The electronic edition is a part of the UNC-CH digitization
 project, [*Documenting the American South, Beginnings to
-1920.*](/index.html)\
+1920.*](/index.html)
         Any hyphens occurring in line breaks have been removed, and the
-trailing part of a word has been joined to the preceding line.\
+trailing part of a word has been joined to the preceding line.
         All quotation marks and ampersand have been transcribed as
-entity references.\
-        All double right and left quotation marks are encoded as \" and
-\" respectively.\
-        All single right and left quotation marks are encoded as \' and
-\' respectively.\
-        Indentation in lines has not been preserved.\
+entity references.
+        All double right and left quotation marks are encoded as " and
+" respectively.
+        All single right and left quotation marks are encoded as ' and
+' respectively.
+        Indentation in lines has not been preserved.
         Spell-check and verification made against printed text using
 Author/Editor (SoftQuad) and Microsoft Word spell check programs.
 
@@ -38,52 +38,52 @@ LC Subject Headings:
 
 -   Turner, Nat, 1800?-1831.
 -   Southampton Insurrection, 1831.
--   Slavery \-- Virginia \-- Insurrections, etc.
--   Slavery \-- Virginia \-- Southampton County \-- Insurrections, etc.
--   Virginia \-- History \-- 1775-1865.
--   African Americans \-- Virginia \-- Southampton County \-- Biography.
--   Slaves \-- Virginia \-- Southampton County \-- Biography.
--   Southampton County (Va.) \-- History \-- 19th century.
+-   Slavery -- Virginia -- Insurrections, etc.
+-   Slavery -- Virginia -- Southampton County -- Insurrections, etc.
+-   Virginia -- History -- 1775-1865.
+-   African Americans -- Virginia -- Southampton County -- Biography.
+-   Slaves -- Virginia -- Southampton County -- Biography.
+-   Southampton County (Va.) -- History -- 19th century.
 
 ------------------------------------------------------------------------
 
 -   
 
-    \
+    
 
 -   
 
-    \
+    
 
 -   
 
-    \
+    
 
 -   
 
-    \
+    
 
 []{#Text}
 
 ------------------------------------------------------------------------
 
-[![Title Page](turnertp.jpg){width="358" height="648"}]{#title}\-->
+[![Title Page](turnertp.jpg){width="358" height="648"}]{#title}-->
 
 ------------------------------------------------------------------------
 
 ### THE CONFESSIONS OF NAT TURNER, THE LEADER OF THE LATE INSURRECTION IN SOUTHAMPTON, VA. 
 
-As fully and voluntarily made to\
-THOMAS R. GRAY\
-In the prison where he was confined, and acknowledged by\
-him to be such when read before the Court of Southampton;\
-with the certificate, under seal of\
-the Court convened at Jerusalem,\
-Nov. 5, 1831, for his trial.\
-ALSO, AN AUTHENTIC\
-ACCOUNT OF THE WHOLE INSURRECTION,\
-WITH LISTS OF THE WHITES WHO WERE MURDERED,\
-AND OF THE NEGROES BROUGHT BEFORE THE COURT OF\
+As fully and voluntarily made to
+THOMAS R. GRAY
+In the prison where he was confined, and acknowledged by
+him to be such when read before the Court of Southampton;
+with the certificate, under seal of
+the Court convened at Jerusalem,
+Nov. 5, 1831, for his trial.
+ALSO, AN AUTHENTIC
+ACCOUNT OF THE WHOLE INSURRECTION,
+WITH LISTS OF THE WHITES WHO WERE MURDERED,
+AND OF THE NEGROES BROUGHT BEFORE THE COURT OF
 SOUTHAMPTON, AND THERE SENTENCED, &c.
 
 #### *Baltimore:* PUBLISHED BY THOMAS R. GRAY. *Lucas & Deaver, print.* 1831.
@@ -99,7 +99,7 @@ Domini, eighteen hundred and thirty-one, Thomas R. Gray of the said
 District, deposited in this office the title of a book, which is in the
 words as following:
 
-        \"The Confessions of Nat Turner, the leader of the late
+        "The Confessions of Nat Turner, the leader of the late
 insurrection in Southampton, Virginia, as fully and voluntarily made to
 Thomas R. Gray, in the prison where he was confined, and acknowledged by
 him to be such when read before the Court of Southampton; with the
@@ -108,20 +108,20 @@ certificate, under seal, of the Court convened at Jerusalem, November 5,
 insurrection, with lists of the whites who were murdered, and of the
 negroes brought before the Court of Southampton, and there sentenced,
 &c. the right whereof he claims as proprietor, in conformity with an Act
-of Congress, entitled \"An act to amend the several acts respecting Copy
-Rights.\"
+of Congress, entitled "An act to amend the several acts respecting Copy
+Rights."
 
         
 
 EDMUND J. LEE, Clerk of the District.
 
-In testimony that the above is a true copy\
-from the record of the District Court for\
-the District of Columbia, I, Edmund I.\
-Lee, the Clerk thereof, have hereunto\
-set my hand and affixed the seal of my\
-office, this 10th day of November, 1831.\
-EDMUND J. LEE, C. D. C.\
+In testimony that the above is a true copy
+from the record of the District Court for
+the District of Columbia, I, Edmund I.
+Lee, the Clerk thereof, have hereunto
+set my hand and affixed the seal of my
+office, this 10th day of November, 1831.
+EDMUND J. LEE, C. D. C.
 (Seal.)
 
 ------------------------------------------------------------------------
@@ -146,11 +146,11 @@ motives which governed them, or the means by which they expected to
 accomplish their object. Every thing connected with this sad affair was
 wrapt in mystery, until Nat Turner, the leader of this ferocious band,
 whose name has resounded throughout our widely extended empire, was
-captured. This \"great Bandit\" was taken by a single individual, in a
+captured. This "great Bandit" was taken by a single individual, in a
 cave near the residence of his late owner, on Sunday, the thirtieth of
 October, without attempting to make the slightest resistance, and on the
 following day safely lodged in the jail of the County. His captor was
-Benjamin Phipps, armed with a shot gun well charged. Nat\'s only weapon
+Benjamin Phipps, armed with a shot gun well charged. Nat's only weapon
 was a small light sword which he immediately surrendered, and begged
 that his life might be spared. Since his confinement, by permission of
 the Jailor, I have had ready access to him, and finding that he was
@@ -189,7 +189,7 @@ the least remarkable feature in this horrid transaction, that a band
 actuated by such hellish purposes, should have resisted so feebly, when
 met by the whites in arms. Desperation alone, one would think, might
 have led to greater efforts. More than twenty of them attacked Dr.
-Blunt\'s house on Tuesday morning, a little before day-break, defended
+Blunt's house on Tuesday morning, a little before day-break, defended
 by two men and three boys. They fled precipitately at the first fire;
 and their future plans of mischief, were entirely disconcerted and
 broken up. Escaping thence, each individual sought his own safety either
@@ -213,7 +213,7 @@ restraint of this class of our population, and to induce all those
 entrusted with their execution, as well as our citizens generally, to
 see that they are strictly and rigidly enforced. Each particular
 community should look to its own safety, whilst the general guardians of
-the laws, keep a watchful eye over all. If Nat\'s statements can be
+the laws, keep a watchful eye over all. If Nat's statements can be
 relied on, the insurrection in this county was entirely local, and his
 designs confided but to a few, and these in his immediate vicinity. It
 was not instigated by motives of revenge or sudden anger, but the
@@ -227,11 +227,11 @@ of ferocious miscreants.
         Believing the following narrative, by removing doubts and
 conjectures from the public mind which otherwise must have remained,
 would give general satisfaction, it is respectfully submitted to the
-public by their ob\'t serv\'t,
+public by their ob't serv't,
 
 T. R. GRAY.
 
-*Jerusalem, Southampton, Va. Nov.* 5, 1831.\
+*Jerusalem, Southampton, Va. Nov.* 5, 1831.
 
         We the undersigned, members of the Court convened at Jerusalem,
 on Saturday, the 5th day of Nov. 1831, for the trial of Nat, *alias* Nat
@@ -244,19 +244,19 @@ why sentence of death should not be passed upon him, replied he had
 nothing further than he had communicated to Mr. Gray. Given under our
 hands and seals at Jerusalem, this 5th day of November, 1831.
 
-JEREMIAH COBB, \[*Seal.*\]\
-THOMAS PRETLOW, \[*Seal.*\]\
-JAMES W. PARKER, \[*Seal.*\]\
-CARR BOWERS, \[*Seal.*\]\
-SAMUEL B. HINES, \[*Seal.*\]\
-ORRIS A. BROWNE, \[*Seal.*\]
+JEREMIAH COBB, [*Seal.*]
+THOMAS PRETLOW, [*Seal.*]
+JAMES W. PARKER, [*Seal.*]
+CARR BOWERS, [*Seal.*]
+SAMUEL B. HINES, [*Seal.*]
+ORRIS A. BROWNE, [*Seal.*]
 
 *State of Virginia, Southampton County, to wit:*
 
         I, James Rochelle, Clerk of the County Court of Southampton in
 the State of Virginia, do hereby certify, that Jeremiah Cobb, Thomas
 Pretlow, James W. Parker, Carr Bowers, Samuel B. Hines, and Orris A.
-Browne, esqr\'s are acting Justices of the Peace, in and for the County
+Browne, esqr's are acting Justices of the Peace, in and for the County
 
 ------------------------------------------------------------------------
 
@@ -275,7 +275,7 @@ seal of the Court aforesaid, to be affixed this 5th day of November,
 
 JAMES ROCHELLE, C. S. C. C.
 
-\[Seal.\]
+[Seal.]
 
 ------------------------------------------------------------------------
 
@@ -286,67 +286,67 @@ JAMES ROCHELLE, C. S. C. C.
         Agreeable to his own appointment, on the evening he was
 committed to prison, with permission of the jailer, I visited NAT on
 Tuesday the 1st November, when, without being questioned at all,
-commenced his narrative in the following words:\--
+commenced his narrative in the following words:--
 
-        SIR,\--You have asked me to give a history of the motives which
-induced me to undertake the late insurrection, as you call it\--To do so
+        SIR,--You have asked me to give a history of the motives which
+induced me to undertake the late insurrection, as you call it--To do so
 I must go back to the days of my infancy, and even before I was born. I
 was thirty-one years of age the 2d of October last, and born the
 property of Benj. Turner, of this county. In my childhood a circumstance
 occurred which made an indelible impression on my mind, and laid the
 ground work of that enthusiasm, which has terminated so fatally to many,
 both white and black, and for which I am about to atone at the gallows.
-It is here necessary to relate this circumstance\--trifling as it may
+It is here necessary to relate this circumstance--trifling as it may
 seem, it was the commencement of that belief which has grown with time,
 and even now, sir, in this dungeon, helpless and forsaken as I am, I
 cannot divest myself of. Being at play with other children, when three
 or four years old, I was telling them something, which my mother
-overhearing, said it had happened before I was I born\--I stuck to my
+overhearing, said it had happened before I was I born--I stuck to my
 story, however, and related somethings which went, in her opinion, to
-confirm it\--others being called on were greatly astonished, knowing
+confirm it--others being called on were greatly astonished, knowing
 that these things had happened, and caused them to say in my hearing, I
 surely would be a prophet, as the Lord had shewn me things that had
 happened before my birth. And my father and mother strengthened me in
 this my first impression, saying in my presence, I was intended for some
 great purpose, which they had always thought from certain marks on my
-head and breast\--\[a parcel of excrescences which I believe are not at
+head and breast--[a parcel of excrescences which I believe are not at
 all uncommon, particularly among negroes, as I have seen several with
 the same. In this case he has either cut them off or they have nearly
-disappeared\]\--My grand mother, who was very religious, and to whom I
+disappeared]--My grand mother, who was very religious, and to whom I
 was much attached
 
 ------------------------------------------------------------------------
 
 [Page 8]
 
-\--my master, who belonged to the church, and other religious persons
+--my master, who belonged to the church, and other religious persons
 who visited the house, and whom I often saw at prayers, noticing the
 singularity of my manners, I suppose, and my uncommon intelligence for a
 child, remarked I had too much sense to be raised, and if I was, I would
-never be of any service to any one as a slave\--To a mind like mine,
+never be of any service to any one as a slave--To a mind like mine,
 restless, inquisitive and observant of every thing that was passing, it
 is easy to suppose that religion was the subject to which it would be
 directed, and although this subject principally occupied my
-thoughts\--there was nothing that I saw or heard of to which my
-attention was not directed\--The manner in which I learned to read and
+thoughts--there was nothing that I saw or heard of to which my
+attention was not directed--The manner in which I learned to read and
 write, not only had great influence on my own mind, as I acquired it
 with the most perfect ease, so much so, that I have no recollection
-whatever of learning the alphabet\--but to the astonishment of the
+whatever of learning the alphabet--but to the astonishment of the
 family, one day, when a book was shewn me to keep me from crying, I
-began spelling the names of different objects\--this was a source of
-wonder to all in the neighborhood, particularly the blacks\--and this
-learning was constantly improved at all opportunities\--when I got large
+began spelling the names of different objects--this was a source of
+wonder to all in the neighborhood, particularly the blacks--and this
+learning was constantly improved at all opportunities--when I got large
 enough to go to work, while employed, I was reflecting on many things
 that would present themselves to my imagination, and whenever an
 opportunity occurred of looking at a book, when the school children were
 getting their lessons, I would find many things that the fertility of my
 own imagination had depicted to me before; all my time, not devoted to
-my master\'s service, was spent either in prayer, or in making
+my master's service, was spent either in prayer, or in making
 experiments in casting different things in moulds made of earth, in
 attempting to make paper, gunpowder, and many other experiments, that
 although I could not perfect, yet convinced me of its practicability if
-I had the means. [^\*^](#note1) I was not addicted to stealing in my
-youth, nor have ever been\--Yet such was the confidence of the negroes
+I had the means. [^*^](#note1) I was not addicted to stealing in my
+youth, nor have ever been--Yet such was the confidence of the negroes
 in the neighborhood, even at this early period of my life, in my
 superior judgment, that they would often carry me with them when they
 were going on any roguery, to plan for them. Growing up among them, with
@@ -354,71 +354,71 @@ this confidence in my superior judgment, and when this, in their
 opinions, was perfected by Divine inspiration, from the circumstances
 already alluded to in my infancy, and which belief was ever afterwards
 zealously inculcated by the austerity of my life and manners, which
-became the subject of remark by white and black.\-- Having soon
+became the subject of remark by white and black.-- Having soon
 discovered to be great, I must appear so, and therefore studiously
-avoided mixing in society, and wrapped\
+avoided mixing in society, and wrapped
 []
 
-        \* When questioned as to the manner of manufacturing those
-different articles, he was found well informed on the subject.\
+        * When questioned as to the manner of manufacturing those
+different articles, he was found well informed on the subject.
 
 ------------------------------------------------------------------------
 
 [Page 9]
 
-myself in mystery, devoting my time to fasting and prayer\--By this
-time, having arrived to man\'s estate, and hearing the scriptures
+myself in mystery, devoting my time to fasting and prayer--By this
+time, having arrived to man's estate, and hearing the scriptures
 commented on at meetings, I was struck with that particular passage
-which says : \"Seek ye the kingdom of Heaven and all things shall be
-added unto you.\" I reflected much on this passage, and prayed daily for
-light on this subject\--As I was praying one day at my plough, the
-spirit spoke to me, saying \"Seek ye the kingdom of Heaven and all
-things shall be added unto you.\" *Question*\--what do you mean by the
+which says : "Seek ye the kingdom of Heaven and all things shall be
+added unto you." I reflected much on this passage, and prayed daily for
+light on this subject--As I was praying one day at my plough, the
+spirit spoke to me, saying "Seek ye the kingdom of Heaven and all
+things shall be added unto you." *Question*--what do you mean by the
 Spirit. *Ans.* The Spirit that spoke to the prophets in former
-days\--and I was greatly astonished, and for two years prayed
-continually, whenever my duty would permit\--and then again I had the
+days--and I was greatly astonished, and for two years prayed
+continually, whenever my duty would permit--and then again I had the
 same revelation, which fully confirmed me in the impression that I was
 ordained for some great purpose in the hands of the Almighty. Several
 years rolled round, in which many events occurred to strengthen me in
 this my belief. At this time I reverted in my mind to the remarks made
-of me in my childhood, and the things that had been shewn me\--and as it
+of me in my childhood, and the things that had been shewn me--and as it
 had been said of me in my childhood by those by whom I had been taught
 to pray, both white and black, and in whom I had the greatest
 confidence, that I had too much sense to be raised, and if I was, I
 would never be of any use to any one as a slave. Now finding I had
-arrived to man\'s estate, and was a slave, and these revelations being
+arrived to man's estate, and was a slave, and these revelations being
 made known to me, I began to direct my attention to this great object,
 to fulfil the purpose for which, by this time, I felt assured I was
 intended. Knowing the influence I had obtained over the minds of my
 fellow servants, (not by the means of conjuring and such like
-tricks\--for to them I always spoke of such things with contempt) but by
+tricks--for to them I always spoke of such things with contempt) but by
 the communion of the Spirit whose revelations I often communicated to
 them, and they believed and said my wisdom came from God. I now began to
 prepare them for my purpose, by telling them something was about to
 happen that would terminate in fulfilling the great promise that had
-been made to me\--About this time I was placed under an overseer, from
+been made to me--About this time I was placed under an overseer, from
 whom I ranaway - and after remaining in the woods thirty days, I
 returned, to the astonishment of the negroes on the plantation, who
 thought I had made my escape to some other part of the country, as my
 father had done before. But the reason of my return was, that the Spirit
 appeared to me and said I had my wishes directed to the things of this
 world, and not to the kingdom of Heaven, and that I should return to the
-service of my earthly master\--\"For he who knoweth his Master\'s will,
+service of my earthly master--"For he who knoweth his Master's will,
 
 ------------------------------------------------------------------------
 
 [Page 10]
 
 and doeth it not, shall be beaten with many stripes, and thus, have I
-chastened you.\" And the negroes found fault, and murmurred against me,
+chastened you." And the negroes found fault, and murmurred against me,
 saying that if they had my sense they would not serve any master in the
-world. And about this time I had a vision\--and I saw white spirits and
-black spirits engaged in battle, and the sun was darkened\--the thunder
-rolled in the Heavens, and blood flowed in streams\--and I heard a voice
-saying, \"Such is your luck, such you are called to see, and let it come
-rough or smooth, you must surely bare it.\" I now withdrew myself as
+world. And about this time I had a vision--and I saw white spirits and
+black spirits engaged in battle, and the sun was darkened--the thunder
+rolled in the Heavens, and blood flowed in streams--and I heard a voice
+saying, "Such is your luck, such you are called to see, and let it come
+rough or smooth, you must surely bare it." I now withdrew myself as
 much as my situation would permit, from the intercourse of my fellow
-servants, for the avowed purpose of serving the Spirit more fully\--and
+servants, for the avowed purpose of serving the Spirit more fully--and
 it appeared to me, and reminded me of the things it had already shown
 me, and that it would then reveal to me the knowledge of the elements,
 the revolution of the planets, the operation of tides, and changes of
@@ -427,24 +427,24 @@ of the elements being made known to me, I sought more than ever to
 obtain true holiness before the great day of judgment should appear, and
 then I began to receive the true knowledge of faith. And from the first
 steps of righteousness until the last, was I made perfect; and the Holy
-Ghost was with me, and said, \"Behold me as I stand in the
-Heavens\"\--and I looked and saw the forms of men in different
-attitudes\--and there were lights in the sky to which the children of
-darkness gave other names than what they really were\--for they were the
-lights of the Saviour\'s hands, stretched forth from east to west, even
+Ghost was with me, and said, "Behold me as I stand in the
+Heavens"--and I looked and saw the forms of men in different
+attitudes--and there were lights in the sky to which the children of
+darkness gave other names than what they really were--for they were the
+lights of the Saviour's hands, stretched forth from east to west, even
 as they were extended on the cross on Calvary for the redemption of
 sinners. And I wondered greatly at these miracles, and prayed to be
-informed of a certainty of the meaning thereof\--and shortly afterwards,
+informed of a certainty of the meaning thereof--and shortly afterwards,
 while laboring in the field, I discovered drops of blood on the corn as
-though it were dew from heaven\-- and I communicated it to many, both
-white and black, in the neighborhood\--and I then found on the leaves in
+though it were dew from heaven-- and I communicated it to many, both
+white and black, in the neighborhood--and I then found on the leaves in
 the woods hieroglyphic characters, and numbers, with the forms of men in
 different attitudes, portrayed in blood, and representing the figures I
 had seen before in the heavens. And now the Holy Ghost had revealed
-itself to me, and made plain the miracles it had shown me\--For as the
+itself to me, and made plain the miracles it had shown me--For as the
 blood of Christ had been shed on this earth, and had ascended to heaven
 for the salvation of sinners, and was now returning to earth again in
-the form of dew\--and as the leaves on the trees bore the impression of
+the form of dew--and as the leaves on the trees bore the impression of
 the figures I had seen in the heavens, it was plain to me that the
 Saviour was about to lay down the yoke he had borne for the sins of men,
 and the
@@ -455,13 +455,13 @@ and the
 
 great day of judgment was at band. About this time I told these things
 to a white man, (Etheldred T. Brantley) on whom it had a wonderful
-effect\--and he ceased from his wickedness, and was attacked immediately
+effect--and he ceased from his wickedness, and was attacked immediately
 with a cutaneous eruption, and blood ozed from the pores of his skin,
 and after praying and fasting nine days, he was healed, and the Spirit
 appeared to me again, and said, as the Saviour had been baptised so
-should we be also\--and when the white people would not let us be
+should we be also--and when the white people would not let us be
 baptised by the church, we went down into the water together, in the
-sight of many who reviled us, and were baptised by the Spirit\--After
+sight of many who reviled us, and were baptised by the Spirit--After
 this I rejoiced greatly, and gave thanks to God. And on the 12th of May,
 1828, I heard a loud noise in the heavens, and the Spirit instantly
 appeared to me and said the Serpent was loosened, and Christ had laid
@@ -470,17 +470,17 @@ it on and fight against the Serpent, for the time was fast approaching
 when the first should be last and the last should be first. *Ques.* Do
 you not find yourself mistaken now? *Ans.* Was not Christ crucified. And
 by signs in the heavens that it would make known to me when I should
-commence the great work\--and until the first sign appeared, I should
-conceal it from the knowledge of men\--And on the appearance of the
+commence the great work--and until the first sign appeared, I should
+conceal it from the knowledge of men--And on the appearance of the
 sign, (the eclipse of the sun last February) I should arise and prepare
 myself, and slay my enemies with their own weapons. And immediately on
 the sign appearing in the heavens, the seal was removed from my lips,
 and I communicated the great work laid out for me to do, to four in whom
-I had the greatest confidence, (Henry, Hark, Nelson, and Sam)\--It was
+I had the greatest confidence, (Henry, Hark, Nelson, and Sam)--It was
 intended by us to have begun the work of death on the 4th July
-last\--Many were the plans formed and rejected by us, and it affected my
+last--Many were the plans formed and rejected by us, and it affected my
 mind to such a degree, that I fell sick, and the time passed without our
-coming to any determination how to commence\--Still forming new schemes
+coming to any determination how to commence--Still forming new schemes
 and rejecting them, when the sign appeared again, which determined me
 not to wait longer.
 
@@ -498,7 +498,7 @@ and being joined by Sam, Nelson,
 [Page 12]
 
 Will and Jack, they prepared in the woods a dinner, where, about three
-o\'clock, I joined them.
+o'clock, I joined them.
 
         *Q.* Why were you so backward in joining them.
 
@@ -510,7 +510,7 @@ he answered, his life was worth no more than others, and his liberty as
 dear to him. I asked him if he thought to obtain it? He said he would,
 or loose his life. This was enough to put him in full confidence. Jack,
 I knew, was only a tool in the hands of Hark, it was quickly agreed we
-should commence at home (Mr. J. Travis\') on that night, and until we
+should commence at home (Mr. J. Travis') on that night, and until we
 had armed and equipped ourselves, and gathered sufficient force, neither
 age nor sex was to be spared, (which was invariably adhered to.) We
 remained at the feast until about two hours in the night, when we went
@@ -524,7 +524,7 @@ Hark got a ladder and set it against the chimney, on which I ascended,
 and hoisting a window, entered and came down stairs, unbarred the door,
 and removed the guns from their places. It was then observed that I must
 spill the first blood. On which, armed with a hatchet, and accompanied
-by Will, I entered my master\'s chamber, it being dark, I could not give
+by Will, I entered my master's chamber, it being dark, I could not give
 a death blow, the hatchet glanced from his head, he sprang from the bed
 and called his wife, it was his last word, Will laid him dead, with a
 blow of his axe, and Mrs. Travis shared the same fate, as she lay in
@@ -535,7 +535,7 @@ distance, when Henry and Will returned and killed it; we got here, four
 guns that would shoot, and several old muskets, with a pound or two of
 powder. We remained some time at the barn, where we paraded; I formed
 them in a line as soldiers, and after carrying them through all the
-manoeuvres I was master of, marched them off to Mr. Salathul Francis\',
+manoeuvres I was master of, marched them off to Mr. Salathul Francis',
 about six hundred yards distant. Sam and Will went to the door and
 knocked. Mr. Francis asked who was there, Sam replied, it was him, and
 he had a
@@ -547,12 +547,12 @@ he had a
 letter for him, on which he got up and came to the door, they
 immediately seized him, and dragging him out a little from the door, he
 was dispatched by repeated blows on the head; there was no other white
-person in the family. We started from there for Mrs. Reese\'s,
+person in the family. We started from there for Mrs. Reese's,
 maintaining the most perfect silence on our march, where finding the
 door unlocked, we entered, and murdered Mrs. Reese in her bed, while
 sleeping; her son awoke, but it was only to sleep the sleep of death, he
-had only time to say who is that, and he was no more. From Mrs. Reese\'s
-we went to Mrs. Turner\'s, a mile distant, which we reached about
+had only time to say who is that, and he was no more. From Mrs. Reese's
+we went to Mrs. Turner's, a mile distant, which we reached about
 sunrise, on Monday morning. Henry, Austin, and Sam, went to the still,
 where, finding Mr. Peebles, Austin shot him, and the rest of us went to
 the house; as we approached, the family discovered us, and shut the
@@ -565,8 +565,8 @@ but not being able to kill her, as the sword was dull. Will turning
 around and discovering it, despatched her also. A general destruction of
 property and search for money and ammunition, always succeeded the
 murders. By this time my company amounted to fifteen, and nine men
-mounted, who started for Mrs. Whitehead\'s, (the other six were to go
-through a by way to Mr. Bryant\'s and rejoin us at Mrs. Whitehead\'s,)
+mounted, who started for Mrs. Whitehead's, (the other six were to go
+through a by way to Mr. Bryant's and rejoin us at Mrs. Whitehead's,)
 as we approached the house we discovered Mr. Richard Whitehead standing
 in the cotton patch, near the lane fence; we called him over into the
 lane, and Will, the executioner, was near at hand, with his fatal axe,
@@ -587,41 +587,41 @@ approach she fled, but was soon overtaken, and after
 [Page 14]
 
 repeated blows with a sword, I killed her by a blow on the head, with a
-fence rail. By this time, the six who had gone by Mr. Bryant\'s,
+fence rail. By this time, the six who had gone by Mr. Bryant's,
 rejoined us, and informed me they had done the work of death assigned
-them. We again divided, part going to Mr. Richard Porter\'s, and from
-thence to Nathaniel Francis\', the others to Mr. Howell Harris\', and
-Mr. T. Doyles. On my reaching Mr. Porter\'s, he had escaped with his
+them. We again divided, part going to Mr. Richard Porter's, and from
+thence to Nathaniel Francis', the others to Mr. Howell Harris', and
+Mr. T. Doyles. On my reaching Mr. Porter's, he had escaped with his
 family. I understood there, that the alarm had already spread, and I
 immediately returned to bring up those sent to Mr. Doyles, and Mr.
-Howell Harris\'; the party I left going on to Mr. Francis\', having told
+Howell Harris'; the party I left going on to Mr. Francis', having told
 them I would join them in that neighborhood. I met these sent to Mr.
-Doyles\' and Mr. Harris\' returning, having met Mr. Doyle on the road
+Doyles' and Mr. Harris' returning, having met Mr. Doyle on the road
 and killed him; and learning from some who joined them, that Mr. Harris
 was from home, I immediately pursued the course taken by the party gone
 on before; but knowing they would complete the work of death and
-pillage, at Mr. Francis\' before I could there, I went to Mr. Peter
-Edwards\', expecting to find them there, but they had been here also. I
-then went to Mr. John T. Barrow\'s, they had been here and murdered him.
-I pursued on their track to Capt. Newit Harris\', where I found the
+pillage, at Mr. Francis' before I could there, I went to Mr. Peter
+Edwards', expecting to find them there, but they had been here also. I
+then went to Mr. John T. Barrow's, they had been here and murdered him.
+I pursued on their track to Capt. Newit Harris', where I found the
 greater part mounted, and ready to start; the men now amounting to about
 forty, shouted and hurraed as I rode up, some were in the yard, loading
 their guns, others drinking. They said Captain Harris and his family had
 escaped, the property in the house they destroyed, robbing him of money
 and other valuables. I ordered them to mount and march instantly, this
-was about nine or ten o\'clock, Monday morning. I proceeded to Mr. Levi
-Waller\'s, two or three miles distant. I took my station in the rear,
-and as it \'twas my object to carry terror and devastation wherever we
+was about nine or ten o'clock, Monday morning. I proceeded to Mr. Levi
+Waller's, two or three miles distant. I took my station in the rear,
+and as it 'twas my object to carry terror and devastation wherever we
 went, I placed fifteen or twenty of the best armed and most to be relied
 on, in front, who generally approached the houses as fast as their
 horses could run; this was for two purposes, to prevent their escape and
-strike terror to the inhabitants\--on this account I never got to the
-houses, after leaving Mrs. Whitehead\'s, until the murders were
+strike terror to the inhabitants--on this account I never got to the
+houses, after leaving Mrs. Whitehead's, until the murders were
 committed, except in one case. I sometimes got in sight in time to see
 the work of death completed, viewed the mangled bodies as they lay, in
 silent satisfaction, and immediately started in quest of other
-victims\--Having murdered Mrs. Waller and ten children, we started for
-Mr. William Williams\' \--having killed him and two little boys that
+victims--Having murdered Mrs. Waller and ten children, we started for
+Mr. William Williams' --having killed him and two little boys that
 were there; while engaged in this, Mrs. Williams fled and got some
 distance
 
@@ -633,25 +633,25 @@ from the house, but she was pursued, overtaken, and compelled to get up
 behind one of the company, who brought her back, and after showing her
 the mangled body of her lifeless husband, she was told to get down and
 lay by his side, where she was shot dead. I then started for Mr. Jacob
-Williams, where the family were murdered\--Here we found a young man
-named Drury, who had come on business with Mr. Williams\--he was
+Williams, where the family were murdered--Here we found a young man
+named Drury, who had come on business with Mr. Williams--he was
 pursued, overtaken and shot. Mrs. Vaughan was the next place we
-visited\--and after murdering the family here, I determined on starting
-for Jerusalem\-- Our number amounted now to fifty or sixty, all mounted
-and armed with guns, axes, swords and clubs\--On reaching Mr. James W.
-Parkers\' gate, immediately on the road leading to Jerusalem, and about
+visited--and after murdering the family here, I determined on starting
+for Jerusalem-- Our number amounted now to fifty or sixty, all mounted
+and armed with guns, axes, swords and clubs--On reaching Mr. James W.
+Parkers' gate, immediately on the road leading to Jerusalem, and about
 three miles distant, it was proposed to me to call there, but I
 objected, as I knew he was gone to Jerusalem, and my object was to reach
 there as soon as possible; but some of the men having relations at Mr.
-Parker\'s it was agreed that they might call and get his people. I
+Parker's it was agreed that they might call and get his people. I
 remained at the gate on the road, with seven or eight; the others going
 across the field to the house, about half a mile off. After waiting some
 time for them, I became impatient, and started to the house for them,
 and on our return we were met by a party of white men, who had pursued
 our blood-stained track, and who had fired on those at the gate, and
 dispersed them, which I new nothing of, not having been at that time
-rejoined by any of them\--Immediately on discovering the whites, I
-ordered my men to halt and form, as they appeared to be alarmed\--The
+rejoined by any of them--Immediately on discovering the whites, I
+ordered my men to halt and form, as they appeared to be alarmed--The
 white men, eighteen in number, approached us in about one hundred yards,
 when one of them fired, (this was against the positive orders of Captain
 Alexander P. Peete, who commanded, and who had directed the men to
@@ -692,9 +692,9 @@ me the others were dispersed in every direction. After trying in vain to
 collect a sufficient force to proceed to Jerusalem, I determined to
 return, as I was sure they would make back to their old neighborhood,
 where they would rejoin me, make new recruits, and come down again. On
-my way back, I called at Mrs. Thomas\'s, Mrs. Spencer\'s, and several
+my way back, I called at Mrs. Thomas's, Mrs. Spencer's, and several
 other places, the white families having fled, we found no more victims
-to gratify our thirst for blood, we stopped at Majr. Ridley\'s quarter
+to gratify our thirst for blood, we stopped at Majr. Ridley's quarter
 for the night, and being joined by four of his men, with the recruits
 made since my defeat, we mustered now about forty strong. After placing
 out sentinels, I laid down to sleep, but was quickly roused by a great
@@ -704,10 +704,10 @@ about to be attacked, I ordered some to ride round and reconnoitre, and
 on their return the others being more alarmed, not knowing who they
 were, fled in different ways, so that I was reduced to about twenty
 again; with this I determined to attempt to recruit, and proceed on to
-rally in the neighborhood, I had left. Dr. Blunt\'s was the nearest
+rally in the neighborhood, I had left. Dr. Blunt's was the nearest
 house, which we reached just before day; on riding up the yard, Hark
 fired a gun. We expected Dr. Blunt and his family were at Maj.
-Ridley\'s, as I knew there was a company of men there; the gun was fired
+Ridley's, as I knew there was a company of men there; the gun was fired
 to ascertain if any of the family were at home; we were immediately
 fired upon and retreated,
 
@@ -717,7 +717,7 @@ fired upon and retreated,
 
 leaving several of my men. I do not know what became of them, as I never
 saw them afterwards. Pursuing our course back and coming in sight of
-Captain Harris\', where we had been the day before, we discovered a
+Captain Harris', where we had been the day before, we discovered a
 party of white men at the house, on which all deserted me but two,
 (Jacob and Nat,) we concealed ourselves in the woods until near night,
 when I sent them in search of Henry, Sam, Nelson, and Hark, and directed
@@ -728,7 +728,7 @@ discovering white men riding around the place as though they were
 looking for some one, and none of my men joining me, I concluded Jacob
 and Nat had been taken, and compelled to betray me. On this I gave up
 all hope for the present; and on Thursday night after having supplied
-myself with provisions from Mr. Travis\'s, I scratched a hole under a
+myself with provisions from Mr. Travis's, I scratched a hole under a
 pile of fence rails in a field, where I concealed myself for six weeks,
 never leaving my hiding place but for a few minutes in the dead of night
 to get water which was very near; thinking by this time I could venture
@@ -748,7 +748,7 @@ me. Knowing then they would betray me, I immediately left my hiding
 place, and was pursued almost incessantly until I was taken a fortnight
 afterwards by Mr. Benjamin Phipps, in a little hole I had dug out with
 my sword, for the purpose of concealment, under the top of a fallen
-tree. On Mr. Phipps\' discovering the place of my concealment, he cocked
+tree. On Mr. Phipps' discovering the place of my concealment, he cocked
 his gun and aimed at me. I requested him not to shoot and I would give
 up, upon which he demanded my sword. I delivered it to him, and he
 brought me to prison. During the time I was
@@ -768,9 +768,9 @@ color, if he knew of any extensive or concerted plan. His answer was, I
 do not. When I questioned him as to the insurrection in North Carolina
 happening about the same time, he denied any knowledge of it; and when I
 looked him in the face as though I would search his inmost thoughts, he
-replied, \"I see sir, you doubt my word; but can you not think the same
-ideas, and strange appearances about this time in the heaven\'s might
-prompt others, as well as myself, to this undertaking.\" I now had much
+replied, "I see sir, you doubt my word; but can you not think the same
+ideas, and strange appearances about this time in the heaven's might
+prompt others, as well as myself, to this undertaking." I now had much
 conversation with and asked him many questions, having forborne to do so
 previously, except in the cases noted in parenthesis; but during his
 statement, I had, unnoticed by him, taken notes as to some particular
@@ -817,10 +817,10 @@ bosoms of the disconsolate sufferers in this unparalleled and inhuman
 massacre, by detailing the deeds of their fiend-like barbarity. There
 were two or three who were in the power of these wretches, had they
 known it, and who escaped in the most providential manner. There were
-two whom they thought they left dead on the field at Mr. Parker\'s, but
+two whom they thought they left dead on the field at Mr. Parker's, but
 who were only stunned by the blows of their guns, as they did not take
 time to re-load when they charged on them. The escape of a little girl
-who went to school at Mr. Waller\'s, and where the children were
+who went to school at Mr. Waller's, and where the children were
 collecting for that purpose. excited general sympathy. As their teacher
 had not arrived, they were at play in the yard, and seeing the negroes
 approach, ran up on a dirt chimney (such as are common to log houses,)
@@ -830,8 +830,8 @@ the arrival of a party, who were in pursuit of the murderers, when she
 came down and fled to a swamp, where, a mere child as she was, with the
 horrors of the late scene before her, she lay concealed until the next
 day, when seeing a party go up to the house, she came up, and on being
-asked how she escaped, replied with the utmost simplicity, \"The Lord
-helped her.\" She was taken up behind a gentleman of the party, and
+asked how she escaped, replied with the utmost simplicity, "The Lord
+helped her." She was taken up behind a gentleman of the party, and
 returned to the arms of her weeping mother Miss Whitehead concealed
 herself between the bed and the mat that supported it, while they
 murdered her sister in the same room, without discovering her. She was
@@ -858,13 +858,13 @@ when she was caught and held by one of her servant girls, but another
 coming to her rescue, she fled to the woods, and concealed herself. Few
 indeed, were those who escaped their work of death. But fortunate for
 society, the hand of retributive justice has overtaken them; and not one
-that was known to be concerned has escaped.\
-\
+that was known to be concerned has escaped.
+
 
 ------------------------------------------------------------------------
 
-*The Commonwealth,*\
-vs.\
+*The Commonwealth,*
+vs.
 *Nat Turner.*
 
         Charged with making insurrection, and plotting to take away the
@@ -876,20 +876,20 @@ arraignment pleaded *Not guilty*; saying to his counsel, that he did not
 feel so.
 
         On the part of the Commonwealth, Levi Waller was introduced, who
-being sworn, deposed as follows: (*agreeably to Nat\'s own Confession.*)
-Col. Trezvant[^\*^](#note2) was then introduced, who being Sworn,
-narrated Nat\'s Confession to him, as follows: (*his Confession as given
+being sworn, deposed as follows: (*agreeably to Nat's own Confession.*)
+Col. Trezvant[^*^](#note2) was then introduced, who being Sworn,
+narrated Nat's Confession to him, as follows: (*his Confession as given
 to Mr. Gray.*) The prisoner introduced no evidence, and the case was
 submitted without argument to the court, who having found him guilty,
 Jeremiah Cobb, Esq. Chairman, pronounced the sentence of the court, in
-the following words: \"Nat Turner! Stand up. Have you any thing to say
-why sentence of death should not be pronounced against you?\"
+the following words: "Nat Turner! Stand up. Have you any thing to say
+why sentence of death should not be pronounced against you?"
 
         *Ans.* I have not. I have made a full confession to Mr. Gray,
-and I have nothing more to say.\
+and I have nothing more to say.
 []{#note2}
 
-        \* The committing Magistrate.\
+        * The committing Magistrate.
 
 ------------------------------------------------------------------------
 
@@ -902,7 +902,7 @@ in cold blood, the indiscriminate destruction of men, of helpless women,
 and of infant children. The evidence before us leaves not a shadow of
 doubt, but that your hands were often imbrued in the blood of the
 innocent; and your own confession tells us that they were stained with
-the blood of a master; in your own language, \"too indulgent.\" Could I
+the blood of a master; in your own language, "too indulgent." Could I
 stop here, your crime would be sufficiently aggravated. But the original
 contriver of a plan, deep and deadly, one that never can be effected,
 you managed so far to put it into execution, as to deprive us of many of
@@ -910,7 +910,7 @@ our most valuable citizens; and this was done when they were asleep, and
 defenceless; under circumstances shocking to humanity. And while upon
 this part of the subject, I cannot but call your attention to the poor
 misguided wretches who have gone before you. They are not few in
-number\--they were your bosom associates; and the blood of all cries
+number--they were your bosom associates; and the blood of all cries
 aloud, and calls upon you, as the author of their misfortune. Yes! You
 forced them unprepared, from Time to Eternity. Borne down by this load
 of guilt, your only justification is, that you were led away by
@@ -931,75 +931,75 @@ dead and may the Lord have mercy upon your soul.
 
         Joseph Travers and wife and three children, Mrs. Elizabeth
 Turner, Hartwell Prebles, Sarah Newsome, Mrs. P. Reese and son William,
-Trajan Doyle, Henry Bryant and wife and child, and wife\'s mother, Mrs.
+Trajan Doyle, Henry Bryant and wife and child, and wife's mother, Mrs.
 Catharine Whitehead, son Richard and four daughters and grand-child,
-Salathiel Francis, Nathaniel Francis\' overseer and two children, John
+Salathiel Francis, Nathaniel Francis' overseer and two children, John
 T. Barrow, George Vaughan, Mrs. Levi Waller and ten children, William
 Williams, wife and two boys, Mrs. Caswell Worrell and child, Mrs.
 Rebecca Vaughan, Ann Eliza Vaughan, and son Arthur, Mrs. John K.
 Williams and child, Mrs. Jacob Williams and three children, and Edwin
-Drury\--amounting to fifty-five.\
-\
+Drury--amounting to fifty-five.
+
 
 ------------------------------------------------------------------------
 
-*A List of Negroes brought before the Court of Southampton,\
-with their owners\' names, and sentence.*
+*A List of Negroes brought before the Court of Southampton,
+with their owners' names, and sentence.*
 
--   Daniel,\-- \-- \-- \-- Richard Porter, Convicted.
--   Moses, \-- \-- \-- \-- \-- J. T. Barrow, Do.
--   Tom, \-- \-- \-- \-- Caty Whitehead, Discharged.
--   Jack and Andrew, \-- \-- \-- \-- Caty Whitehead, Con. and
+-   Daniel,-- -- -- -- Richard Porter, Convicted.
+-   Moses, -- -- -- -- -- J. T. Barrow, Do.
+-   Tom, -- -- -- -- Caty Whitehead, Discharged.
+-   Jack and Andrew, -- -- -- -- Caty Whitehead, Con. and
     transported.
--   Jacob, \-- \-- \-- \-- Geo. H. Charlton, Disch\'d without trial.
--   Isaac, \-- \-- \-- \-- Ditto, Convi. and transported.
--   Jack, \-- \-- \-- \-- Everett Bryant, Discharged.
--   Nathan, \-- \-- \-- \-- Benj. Blunt\'s estate, Convicted.
--   Nathan, Tom, and Davy, (boys,) \-- \-- \-- \-- Nathaniel Francis,
+-   Jacob, -- -- -- -- Geo. H. Charlton, Disch'd without trial.
+-   Isaac, -- -- -- -- Ditto, Convi. and transported.
+-   Jack, -- -- -- -- Everett Bryant, Discharged.
+-   Nathan, -- -- -- -- Benj. Blunt's estate, Convicted.
+-   Nathan, Tom, and Davy, (boys,) -- -- -- -- Nathaniel Francis,
     Convicted and transported.
--   Davy, \-- \-- \-- \-- Elizabeth Turner, Convicted.
--   Curtis, \-- \-- \-- \-- Thomas Ridley, Do.
--   Stephen, \-- \-- \-- \-- Do. Do.
--   Hardy and Isham, \-- \-- \-- \-- Benjamin Edwards, Convicted and
-    transp\'d.
--   Sam, \-- \-- \-- \-- Nathaniel Francis, Convicted.
--   Hark, \-- \-- \-- \-- Joseph Travis\' estate, Do.
--   Moses, (a boy,) \-- \-- \-- \-- Do. Do. and transported.
--   Davy, \-- \-- \-- \-- Levi Waller, Convicted.
--   Nelson, \-- \-- \-- \-- Jacob Williams, Do.
--   Nat, \-- \-- \-- \-- Edm\'d Turner\'s estate. Do.
--   Jack, \-- \-- \-- \-- Wm. Reese\'s estate, Do.
--   Dred, \-- \-- \-- \-- Nathaniel Francis, Do.
--   Arnold, Artist, (free,) \-- \-- \-- \-- Discharged.
--   Sam, \-- \-- \-- \-- J. W. Parker, Acquitted.
--   Ferry and Archer, \-- \-- \-- \-- J. W. Parker, Disch\'d without
+-   Davy, -- -- -- -- Elizabeth Turner, Convicted.
+-   Curtis, -- -- -- -- Thomas Ridley, Do.
+-   Stephen, -- -- -- -- Do. Do.
+-   Hardy and Isham, -- -- -- -- Benjamin Edwards, Convicted and
+    transp'd.
+-   Sam, -- -- -- -- Nathaniel Francis, Convicted.
+-   Hark, -- -- -- -- Joseph Travis' estate, Do.
+-   Moses, (a boy,) -- -- -- -- Do. Do. and transported.
+-   Davy, -- -- -- -- Levi Waller, Convicted.
+-   Nelson, -- -- -- -- Jacob Williams, Do.
+-   Nat, -- -- -- -- Edm'd Turner's estate. Do.
+-   Jack, -- -- -- -- Wm. Reese's estate, Do.
+-   Dred, -- -- -- -- Nathaniel Francis, Do.
+-   Arnold, Artist, (free,) -- -- -- -- Discharged.
+-   Sam, -- -- -- -- J. W. Parker, Acquitted.
+-   Ferry and Archer, -- -- -- -- J. W. Parker, Disch'd without
     trial.
--   Jim, \-- \-- \-- \-- William Vaughan, Acquitted.
--   Bob, \-- \-- \-- \-- Temperance Parker, Do.
--   Davy, \-- \-- \-- \-- Joseph Parker,
--   Daniel, \-- \-- \-- \-- Solomon D. Parker, Disch\'d without trial.
--   Thomas Haithcock, (free,) \-- \-- \-- \-- Sent on for further trial.
+-   Jim, -- -- -- -- William Vaughan, Acquitted.
+-   Bob, -- -- -- -- Temperance Parker, Do.
+-   Davy, -- -- -- -- Joseph Parker,
+-   Daniel, -- -- -- -- Solomon D. Parker, Disch'd without trial.
+-   Thomas Haithcock, (free,) -- -- -- -- Sent on for further trial.
 
     ------------------------------------------------------------------------
 
     [Page 23]
--   Joe, \-- \-- \-- \-- John C. Turner, Convicted.
--   Lucy, \-- \-- \-- \-- John T. Barrow, Do.
--   Matt, \-- \-- \-- \-- Thomas Ridley, Acquitted.
--   Jim, \-- \-- \-- \-- Richard Porter, Do.
+-   Joe, -- -- -- -- John C. Turner, Convicted.
+-   Lucy, -- -- -- -- John T. Barrow, Do.
+-   Matt, -- -- -- -- Thomas Ridley, Acquitted.
+-   Jim, -- -- -- -- Richard Porter, Do.
 -   Exum Artes, (free,) Richard Porter, Sent on or further trial.
--   Joe, \-- \-- \-- \-- Richard P. Briggs, Disch\'d without trial.
--   Bury Newsome, (free,) \-- \-- \-- \-- Sent on for further trial.
--   Stephen, \-- \-- \-- \-- James Bell, Acquitted.
--   Jim and Isaac, \-- \-- \-- \-- Samuel Champion, Convicted and
-    trans\'d.
--   Preston, \-- \-- \-- \-- Hannah Williamson, Acquitted.
--   Frank, \-- \-- \-- \-- Solomon D. Parker, Convi\'d and transp\'d.
--   Jack and Shadrach, \-- \-- \-- \-- Nathaniel Simmons, Acquitted.
--   Nelson, \-- \-- \-- \-- Benj. Blunt\'s estate, Do.
--   Sam, \-- \-- \-- \-- Peter Edwards, Convicted.
--   Archer, \-- \-- \-- \-- Arthur G. Reese, Acquitted.
--   Isham Turner, (free,) \-- \-- \-- \-- Sent on for further trial.
--   Nat Turner, \-- \-- \-- \--Putnam Moore, dec\'d, Convicted.
+-   Joe, -- -- -- -- Richard P. Briggs, Disch'd without trial.
+-   Bury Newsome, (free,) -- -- -- -- Sent on for further trial.
+-   Stephen, -- -- -- -- James Bell, Acquitted.
+-   Jim and Isaac, -- -- -- -- Samuel Champion, Convicted and
+    trans'd.
+-   Preston, -- -- -- -- Hannah Williamson, Acquitted.
+-   Frank, -- -- -- -- Solomon D. Parker, Convi'd and transp'd.
+-   Jack and Shadrach, -- -- -- -- Nathaniel Simmons, Acquitted.
+-   Nelson, -- -- -- -- Benj. Blunt's estate, Do.
+-   Sam, -- -- -- -- Peter Edwards, Convicted.
+-   Archer, -- -- -- -- Arthur G. Reese, Acquitted.
+-   Isham Turner, (free,) -- -- -- -- Sent on for further trial.
+-   Nat Turner, -- -- -- --Putnam Moore, dec'd, Convicted.
 
 ------------------------------------------------------------------------
