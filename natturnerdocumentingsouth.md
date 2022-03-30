@@ -1,39 +1,5 @@
-::: container_inside
-::: logo_inside
-[![Documenting the American South
-Logo](/images/logo2-small.gif){width="216" height="46"
-border="0"}](/index.html)
-:::
 
-::: forminside
-:::
-
-::: spacer
-:::
-
-::: menu
- [About](/support/about/) \| [Collections](/browse/collections.html) \|
-[Authors](/browse/author/) \| [Titles](/browse/title/) \|
-[Subjects](/browse/subject/) \| [Geographic](/browse/geographic/) \|
-[K-12](https://www.ncpedia.org/anchor/anchor) \| [Facebook  ![facebook
-logo](/images/facebook-icon1.png){width="14" height="14"
-border="0"}](http://www.facebook.com/UNCDigitalCollections){target="_blank"
-onclick="_gaq.push(['_trackEvent','outbound-link','click','Facebook_link_text',1,true]);"}
-\| [Buy DocSouth Books](/support/docsouth_books/)
-:::
-
-## THE CONFESSIONS OF NAT TURNER, THE LEADER OF THE LATE INSURRECTION IN SOUTHAMPTON, VA.: Electronic Edition. {#the-confessions-of-nat-turner-the-leader-of-the-late-insurrection-in-southampton-va.-electronic-edition. align="center"}
-
-### Nat Turner, 1800?-1831 {#nat-turner-1800-1831 align="center"}
-
-------------------------------------------------------------------------
-
-Funding from the National Endowment for the Humanities\
-supported the electronic publication of this title.
-
-------------------------------------------------------------------------
-
-Text scanned (OCR) by Kevin O\'Kelly\
+<!--Text scanned (OCR) by Kevin O\'Kelly\
 Image scanned by Carlene Hempel\
 Text encoded by Carlene Hempel and Natalia Smith\
 First edition, 1999\
@@ -101,7 +67,7 @@ LC Subject Headings:
 
 ------------------------------------------------------------------------
 
-[![Title Page](turnertp.jpg){width="358" height="648"}]{#title}\
+[![Title Page](turnertp.jpg){width="358" height="648"}]{#title}\-->
 
 ------------------------------------------------------------------------
 
