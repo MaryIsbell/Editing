@@ -86,7 +86,7 @@ WITH LISTS OF THE WHITES WHO WERE MURDERED,
 AND OF THE NEGROES BROUGHT BEFORE THE COURT OF
 SOUTHAMPTON, AND THERE SENTENCED, &c.
 
-#### *Baltimore:* PUBLISHED BY THOMAS R. GRAY. *Lucas & Deaver, print.* 1831.
+#### <!--replacing asterisks with em here because parsedown is being weird in pressbooks--><em>Baltimore:</em> PUBLISHED BY THOMAS R. GRAY. <em>Lucas & Deaver, print.</em> 1831.
 
 ------------------------------------------------------------------------
 
