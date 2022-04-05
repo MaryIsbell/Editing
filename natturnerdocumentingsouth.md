@@ -328,7 +328,7 @@ restless, inquisitive and observant of every thing that was passing, it
 is easy to suppose that religion was the subject to which it would be
 directed, and although this subject principally occupied my
 thoughts--there was nothing that I saw or heard of to which my
-attention was not directed--The manner in which I learned to read and
+attention was not directed[^1]--The manner in which I learned to read and
 write, not only had great influence on my own mind, as I acquired it
 with the most perfect ease, so much so, that I have no recollection
 whatever of learning the alphabet--but to the astonishment of the
@@ -1003,3 +1003,8 @@ with their owners' names, and sentence.*
 -   Nat Turner, -- -- -- --Putnam Moore, dec'd, Convicted.
 
 ------------------------------------------------------------------------
+[^1]: Nat Turner admits here that his mind was always in a state of constant restlessness. He also understands that most people likely thought all his attention was strictly on religion, and although it mainly was, he insists that his attention was directed at everything he saw and heard. Joseph Drexler-Dreis is a scholar with both a Belgian cultural background and American cultural background. This allows for a variety of interpretations from different cultural backgrounds. He is currently a faculty member of theology and religious studies at the University of Leuven in Belgium. His article interpreting Nat Turner’s confessions appears in Black Theology: An International Journal, a journal that publishes research on the theological expression of faith among black people across the world to explore the nature of black religious experiences. Drexler-Dreis stated that it is evident that Turner had an “apocalyptic worldview” different from most other religious people during this era.  The way slaves viewed, practiced, and understood religion was much different than that of non-slaves.  Drexler Dreis’s main interpretation of what motivated Nat Turner’s rebellion is that Turner’s rebellion was not a product of religion separate from Christian faith, but a “radicalization of the Christianity lived out by enslaved Africans” (240). 
+ 
+Drexler-Dreis, Joseph. “Nat Turner’s Rebellion as a Process of Conversion.” Black Theology: An International Journal 12, no. 3 (November 2014): 230–50.
+
+Note contributed by Sophie Eskenas in Fall 2021 (Editor Note)
