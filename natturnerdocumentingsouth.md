@@ -452,7 +452,7 @@ and the
 ------------------------------------------------------------------------
 
 [Page 11]
-![](<img src="/Images/confessionsofnat00turn_0011.png" alt="page 11" width="50%"/>)
+<img src="/Images/confessionsofnat00turn_0011.png" alt="page 11" width="50%"/>
 
 great day of judgment was at band. About this time I told these things
 to a white man, (Etheldred T. Brantley) on whom it had a wonderful
