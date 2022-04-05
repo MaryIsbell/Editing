@@ -451,7 +451,7 @@ and the
 
 ------------------------------------------------------------------------
 
-<a href="https://github.com/MaryIsbell/TransformingHumanitiesTexts/blob/main/Images/confessionsofnat00turn_0011.png"><img src="Images/confessionsofnat00turn_0011.png" alt="page 11" width="25"/></a> Page 11
+<a href="https://github.com/MaryIsbell/TransformingHumanitiesTexts/blob/main/Images/confessionsofnat00turn_0011.png" target="_blank"><img src="Images/confessionsofnat00turn_0011.png" alt="page 11" width="25"/></a> Page 11
 
 great day of judgment was at band. About this time I told these things
 to a white man, (Etheldred T. Brantley) on whom it had a wonderful
