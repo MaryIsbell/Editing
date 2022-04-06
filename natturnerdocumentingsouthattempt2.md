@@ -352,7 +352,7 @@ my master\'s service, was spent either in prayer, or in making
 experiments in casting different things in moulds made of earth, in
 attempting to make paper, gunpowder, and many other experiments, that
 although I could not perfect, yet convinced me of its practicability if
-I had the means. ^\*^ I was not addicted to stealing in my
+I had the means. \* I was not addicted to stealing in my
 youth, nor have ever been--Yet such was the confidence of the negroes
 in the neighborhood, even at this early period of my life, in my
 superior judgment, that they would often carry me with them when they
@@ -363,10 +363,10 @@ already alluded to in my infancy, and which belief was ever afterwards
 zealously inculcated by the austerity of my life and manners, which
 became the subject of remark by white and black.\-- Having soon
 discovered to be great, I must appear so, and therefore studiously
-avoided mixing in society, and wrapped\
+avoided mixing in society, and wrapped
 
         \* When questioned as to the manner of manufacturing those
-different articles, he was found well informed on the subject.\
+different articles, he was found well informed on the subject.
 
 ------------------------------------------------------------------------
 
@@ -864,7 +864,7 @@ when she was caught and held by one of her servant girls, but another
 coming to her rescue, she fled to the woods, and concealed herself. Few
 indeed, were those who escaped their work of death. But fortunate for
 society, the hand of retributive justice has overtaken them; and not one
-that was known to be concerned has escaped.\
+that was known to be concerned has escaped.
 
 \---
 
@@ -882,7 +882,7 @@ feel so.
 
         On the part of the Commonwealth, Levi Waller was introduced, who
 being sworn, deposed as follows: (*agreeably to Nat\'s own Confession.*)
-Col. Trezvant^\*^ was then introduced, who being Sworn,
+Col. Trezvant\* was then introduced, who being Sworn,
 narrated Nat\'s Confession to him, as follows: (*his Confession as given
 to Mr. Gray.*) The prisoner introduced no evidence, and the case was
 submitted without argument to the court, who having found him guilty,
@@ -891,10 +891,10 @@ the following words: \"Nat Turner! Stand up. Have you any thing to say
 why sentence of death should not be pronounced against you?\"
 
         *Ans.* I have not. I have made a full confession to Mr. Gray,
-and I have nothing more to say.\
+and I have nothing more to say.
 
 
-        \* The committing Magistrate.\
+        \* The committing Magistrate.
 
 ------------------------------------------------------------------------
 
@@ -943,7 +943,7 @@ T. Barrow, George Vaughan, Mrs. Levi Waller and ten children, William
 Williams, wife and two boys, Mrs. Caswell Worrell and child, Mrs.
 Rebecca Vaughan, Ann Eliza Vaughan, and son Arthur, Mrs. John K.
 Williams and child, Mrs. Jacob Williams and three children, and Edwin
-Drury\--amounting to fifty-five.\
+Drury\--amounting to fifty-five.
 
 
 \---
