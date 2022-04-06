@@ -76,7 +76,7 @@ LC Subject Headings:
 
 ------------------------------------------------------------------------>
 
-### THE CONFESSIONS OF NAT TURNER, THE LEADER OF THE LATE INSURRECTION IN SOUTHAMPTON, VA. {#the-confessions-of-nat-turner-the-leader-of-the-late-insurrection-in-southampton-va. align="center"}
+### THE CONFESSIONS OF NAT TURNER, THE LEADER OF THE LATE INSURRECTION IN SOUTHAMPTON, VA.
 
 As fully and voluntarily made to\
 THOMAS R. GRAY\
@@ -91,7 +91,7 @@ WITH LISTS OF THE WHITES WHO WERE MURDERED,\
 AND OF THE NEGROES BROUGHT BEFORE THE COURT OF\
 SOUTHAMPTON, AND THERE SENTENCED, &c.
 
-#### *Baltimore:* PUBLISHED BY THOMAS R. GRAY. *Lucas & Deaver, print.* 1831. {#baltimore-published-by-thomas-r.-gray.-lucas-deaver-print.-1831. align="center"}
+#### *Baltimore:* PUBLISHED BY THOMAS R. GRAY. *Lucas & Deaver, print.* 1831.
 
 ------------------------------------------------------------------------
 
@@ -131,7 +131,7 @@ EDMUND J. LEE, C. D. C.\
 
 ------------------------------------------------------------------------
 
-[Page 3]{#turner3}
+Page 3
 
 TO THE PUBLIC.
 
@@ -166,7 +166,7 @@ curiosity to commit his
 
 ------------------------------------------------------------------------
 
-[Page 4]{#turner4}
+Page 4
 
 statements to writing, and publish them, with little or no variation,
 from his own words. That this is a faithful record of his confessions,
@@ -210,7 +210,7 @@ confounded, and finally corrupted and led to
 
 ------------------------------------------------------------------------
 
-[Page 5]{#turner5}
+Page 5
 
 the conception and perpetration of the most atrocious and heart-rending
 deeds. It is calculated also to demonstrate the policy or our laws in
@@ -265,7 +265,7 @@ Browne, esqr\'s are acting Justices of the Peace, in and for the County
 
 ------------------------------------------------------------------------
 
-[Page 6]{#turner6}
+Page 6
 
 aforesaid, and were members of the Court which convened at Jerusalem, on
 Saturday the 5th day of November, 1831, for the trial of Nat *alias* Nat
@@ -284,9 +284,9 @@ JAMES ROCHELLE, C. S. C. C.
 
 ------------------------------------------------------------------------
 
-[Page 7]{#turner7}
+Page 7
 
-## CONFESSION. {#confession. align="center"}
+## CONFESSION.
 
         Agreeable to his own appointment, on the evening he was
 committed to prison, with permission of the jailer, I visited NAT on
@@ -322,7 +322,7 @@ was much attached
 
 ------------------------------------------------------------------------
 
-[Page 8]{#turner8}
+Page 8
 
 \--my master, who belonged to the church, and other religious persons
 who visited the house, and whom I often saw at prayers, noticing the
@@ -350,8 +350,8 @@ my master\'s service, was spent either in prayer, or in making
 experiments in casting different things in moulds made of earth, in
 attempting to make paper, gunpowder, and many other experiments, that
 although I could not perfect, yet convinced me of its practicability if
-I had the means. [^\*^](#note1) I was not addicted to stealing in my
-youth, nor have ever been\--Yet such was the confidence of the negroes
+I had the means. ^\*^ I was not addicted to stealing in my
+youth, nor have ever been--Yet such was the confidence of the negroes
 in the neighborhood, even at this early period of my life, in my
 superior judgment, that they would often carry me with them when they
 were going on any roguery, to plan for them. Growing up among them, with
@@ -362,14 +362,13 @@ zealously inculcated by the austerity of my life and manners, which
 became the subject of remark by white and black.\-- Having soon
 discovered to be great, I must appear so, and therefore studiously
 avoided mixing in society, and wrapped\
-[]{#note1}
 
         \* When questioned as to the manner of manufacturing those
 different articles, he was found well informed on the subject.\
 
 ------------------------------------------------------------------------
 
-[Page 9]{#turner9}
+Page 9
 
 myself in mystery, devoting my time to fasting and prayer\--By this
 time, having arrived to man\'s estate, and hearing the scriptures
@@ -412,7 +411,7 @@ service of my earthly master\--\"For he who knoweth his Master\'s will,
 
 ------------------------------------------------------------------------
 
-[Page 10]{#turner10}
+Page 10
 
 and doeth it not, shall be beaten with many stripes, and thus, have I
 chastened you.\" And the negroes found fault, and murmurred against me,
@@ -456,7 +455,7 @@ and the
 
 ------------------------------------------------------------------------
 
-[Page 11]{#turner11}
+Page 11
 
 great day of judgment was at band. About this time I told these things
 to a white man, (Etheldred T. Brantley) on whom it had a wonderful
@@ -500,7 +499,7 @@ and being joined by Sam, Nelson,
 
 ------------------------------------------------------------------------
 
-[Page 12]{#turner12}
+Page 12
 
 Will and Jack, they prepared in the woods a dinner, where, about three
 o\'clock, I joined them.
@@ -547,7 +546,7 @@ he had a
 
 ------------------------------------------------------------------------
 
-[Page 13]{#turner13}
+Page 13
 
 letter for him, on which he got up and came to the door, they
 immediately seized him, and dragging him out a little from the door, he
@@ -589,7 +588,7 @@ approach she fled, but was soon overtaken, and after
 
 ------------------------------------------------------------------------
 
-[Page 14]{#turner14}
+Page 14
 
 repeated blows with a sword, I killed her by a blow on the head, with a
 fence rail. By this time, the six who had gone by Mr. Bryant\'s,
@@ -632,7 +631,7 @@ distance
 
 ------------------------------------------------------------------------
 
-[Page 15]{#turner15}
+Page 15
 
 from the house, but she was pursued, overtaken, and compelled to get up
 behind one of the company, who brought her back, and after showing her
@@ -674,7 +673,7 @@ knew nothing of the party that had gone in with Captain
 
 ------------------------------------------------------------------------
 
-[Page 16]{#turner16}
+Page 16
 
 Peete; on hearing the firing they immediately rushed to the spot and
 arrived just in time to arrest the progress of these barbarous villians,
@@ -718,7 +717,7 @@ fired upon and retreated,
 
 ------------------------------------------------------------------------
 
-[Page 17]{#turner17}
+Page 17
 
 leaving several of my men. I do not know what became of them, as I never
 saw them afterwards. Pursuing our course back and coming in sight of
@@ -760,7 +759,7 @@ brought me to prison. During the time I was
 
 ------------------------------------------------------------------------
 
-[Page 18]{#turner18}
+Page 18
 
 pursued, I had many hair breadth escapes, which your time will not
 permit you to relate. I am here loaded with chains, and willing to
@@ -804,7 +803,7 @@ perverted by the influence of
 
 ------------------------------------------------------------------------
 
-[Page 19]{#turner19}
+Page 19
 
 early impressions. He is below the ordinary stature, though strong and
 active, having the true negro face, every feature of which is strongly
@@ -847,7 +846,7 @@ the shrieks of the victims of these ruthless savages; they
 
 ------------------------------------------------------------------------
 
-[Page 20]{#turner20}
+Page 20
 
 then entered the closet where she was concealed, and went out without
 discovering her. While in this hiding place, she heard two of her women
@@ -866,7 +865,7 @@ society, the hand of retributive justice has overtaken them; and not one
 that was known to be concerned has escaped.\
 \
 
-------------------------------------------------------------------------
+---
 
 *The Commonwealth,*\
 vs.\
@@ -882,7 +881,7 @@ feel so.
 
         On the part of the Commonwealth, Levi Waller was introduced, who
 being sworn, deposed as follows: (*agreeably to Nat\'s own Confession.*)
-Col. Trezvant[^\*^](#note2) was then introduced, who being Sworn,
+Col. Trezvant^\*^ was then introduced, who being Sworn,
 narrated Nat\'s Confession to him, as follows: (*his Confession as given
 to Mr. Gray.*) The prisoner introduced no evidence, and the case was
 submitted without argument to the court, who having found him guilty,
@@ -892,13 +891,13 @@ why sentence of death should not be pronounced against you?\"
 
         *Ans.* I have not. I have made a full confession to Mr. Gray,
 and I have nothing more to say.\
-[]{#note2}
+
 
         \* The committing Magistrate.\
 
 ------------------------------------------------------------------------
 
-[Page 21]{#turner21}
+Page 21
 
         Attend then to the sentence of the Court. You have been
 arraigned and tried before this court, and convicted of one of the
@@ -930,9 +929,9 @@ dead and may the Lord have mercy upon your soul.
 
 ------------------------------------------------------------------------
 
-[Page 22]{#turner22}
+Page 22
 
-#### *A list of persons murdered in the Insurrection, on the* 21*st and* 22*nd of August,* 1831. {#a-list-of-persons-murdered-in-the-insurrection-on-the-21st-and-22nd-of-august-1831. align="center"}
+#### *A list of persons murdered in the Insurrection, on the* 21*st and* 22*d of August,* 1831. 
 
         Joseph Travers and wife and three children, Mrs. Elizabeth
 Turner, Hartwell Prebles, Sarah Newsome, Mrs. P. Reese and son William,
@@ -987,7 +986,7 @@ with their owners\' names, and sentence.*
 
     ------------------------------------------------------------------------
 
-    [Page 23]{#turner23}
+    Page 23
 -   Joe, \-- \-- \-- \-- John C. Turner, Convicted.
 -   Lucy, \-- \-- \-- \-- John T. Barrow, Do.
 -   Matt, \-- \-- \-- \-- Thomas Ridley, Acquitted.
