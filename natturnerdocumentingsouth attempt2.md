@@ -863,9 +863,8 @@ coming to her rescue, she fled to the woods, and concealed herself. Few
 indeed, were those who escaped their work of death. But fortunate for
 society, the hand of retributive justice has overtaken them; and not one
 that was known to be concerned has escaped.\
-\
 
----
+\---
 
 *The Commonwealth,*\
 vs.\
@@ -943,9 +942,9 @@ Williams, wife and two boys, Mrs. Caswell Worrell and child, Mrs.
 Rebecca Vaughan, Ann Eliza Vaughan, and son Arthur, Mrs. John K.
 Williams and child, Mrs. Jacob Williams and three children, and Edwin
 Drury\--amounting to fifty-five.\
-\
 
-------------------------------------------------------------------------
+
+\---
 
 *A List of Negroes brought before the Court of Southampton,\
 with their owners\' names, and sentence.*
