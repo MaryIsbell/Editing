@@ -78,8 +78,7 @@ LC Subject Headings:
 
 ### THE CONFESSIONS OF NAT TURNER, 
 
-THE LEADER OF THE LATE INSURRECTION IN SOUTHAMPTON, VA.
-
+THE LEADER OF THE LATE INSURRECTION IN SOUTHAMPTON, VA.\
 As fully and voluntarily made to\
 THOMAS R. GRAY\
 In the prison where he was confined, and acknowledged by\
