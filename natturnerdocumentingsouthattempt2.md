@@ -70,11 +70,12 @@ LC Subject Headings:
 
 []{#Text}
 
-------------------------------------------------------------------------
+------------------------------------------------------------------------->
+<img src="images/confessionsofnat00turn_0007.png" alt="title page" width="200"/>
 
-[![Title Page](turnertp.jpg){width="358" height="648"}]{#title}\
 
------------------------------------------------------------------------->
+
+-----------------------------------------------------------------------
 
 ### THE CONFESSIONS OF NAT TURNER, 
 
@@ -96,7 +97,7 @@ SOUTHAMPTON, AND THERE SENTENCED, &c.
 
 ------------------------------------------------------------------------
 
-Page verso
+<a href="https://github.com/MaryIsbell/TransformingHumanitiesTexts/blob/main/images/confessionsofnat00turn_0008.png" target="_blank"><img src="images/confessionsofnat00turn_0008.png" alt="page verso" width="25"/></a> Page verso
 
 DISTRICT OF COLUMBIA, TO WIT:
 
