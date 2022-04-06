@@ -205,7 +205,7 @@ confounded, and finally corrupted and led to
 
 ------------------------------------------------------------------------
 
-<a href="https://github.com/MaryIsbell/TransformingHumanitiesTexts/blob/main/Images/confessionsofnat00turn_0011.png" target="_blank"><img src="Images/confessionsofnat00turn_0011.png" alt="page 5" width="25"/></a> Page 5
+<a href="https://github.com/MaryIsbell/TransformingHumanitiesTexts/blob/main/Images/confessionsofnat00turn_0011.jp2" target="_blank"><img src="Images/confessionsofnat00turn_0011.png" alt="page 5" width="25"/></a> Page 5
 
 the conception and perpetration of the most atrocious and heart-rending
 deeds. It is calculated also to demonstrate the policy or our laws in
