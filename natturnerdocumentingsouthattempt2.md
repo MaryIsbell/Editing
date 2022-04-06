@@ -335,7 +335,7 @@ restless, inquisitive and observant of every thing that was passing, it
 is easy to suppose that religion was the subject to which it would be
 directed, and although this subject principally occupied my
 thoughts\--there was nothing that I saw or heard of to which my
-attention was not directed\--The manner in which I learned to read and
+attention was not directed [^1]\--The manner in which I learned to read and
 write, not only had great influence on my own mind, as I acquired it
 with the most perfect ease, so much so, that I have no recollection
 whatever of learning the alphabet\--but to the astonishment of the
@@ -1008,3 +1008,4 @@ with their owners\' names, and sentence.*
 -   Nat Turner, \-- \-- \-- \--Putnam Moore, dec\'d, Convicted.
 
 ------------------------------------------------------------------------
+[^1]:Here, Turner is talking about how he supposedly told other children stories that happened before his lifetime and therefore should have no way of knowing them. From the early stages of his life, Turner’s mind did not seem to work like the other children’s. Thomas Wentworth Higginson was a scholar who was alive at the time the rebellion occurred and wrote an article in 1861, also the start of the civil war, on his interpretations of the events that occurred in 1831. Higginson was a supporter of John Brown, who was an American abolitionist leader. Higginson was also an American Unitarian minister, author, soldier, and abolitionist who was active in the American Abolition movement during the 1840s and 1850s, identifying himself with militant abolitionism. Higginson believed that Nat Turner’s poor mental state was with him throughout his life, not just due to being enslaved. Higginson says, “He had, by his own account, felt himself singled out from childhood for some great work; and he had some peculiar marks on his person, which, joined to his great mental precocity, were enough to occasion, among his youthful companions, a superstitious faith in his gifts and destiny.” It appears that Higginson believes that Turner’s childhood played a significant role in his development of being mentally unstable. **Citation:** Higginson, Thomas Wentworth. “Nat Turner’s Insurrection.” *The Atlantic* November 7, 2011. **Note contributed in [Fall 2021 by Sophie Eskenas](https://maryisbell.github.io/TransformingHumanitiesTexts)**
