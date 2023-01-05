@@ -2,7 +2,7 @@
 Editing in the Open is an interdisciplinary project designed to bring edition-building into undergraduate courses in the liberal arts. To join the community or contribute to our *Guide to Editing in the Open*, please get in touch with [Mary Isbell](https://www.newhaven.edu/faculty-staff-profiles/mary-isbell.php)
 
 # About the Source Texts
-[Gray, Thomas Ruffin. *The Confessions of Nat Turner*. Baltimore : Lucas & Deaver, 1831.](theconfessions.md) 
+[Gray, Thomas Ruffin. *The Confessions of Nat Turner*. Baltimore : Lucas & Deaver, 1831.](natturnerdocumentingsouthattempt2.md) 
 
 There are many copies of _The Confessions of Nat Turner_ by Thomas Gray published in Baltimore by Lucas and Deaver in 1831. This open edition aims to represent, as accurately as possible, the particular copy described below:
 
