@@ -26,6 +26,8 @@ There are many copies of _The Confessions of Nat Turner_ by Thomas Gray publishe
 
 # Editors' Notes
 [Fall 2021](fall2021notes.md)
+
+
 [Fall 2022](fall2022notes.md)
 
 
