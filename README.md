@@ -19,15 +19,15 @@ There are many copies of _The Confessions of Nat Turner_ by Thomas Gray publishe
 * Pages scanned for Internet Archive in 2013 [with a Canon 5D](https://archive.org/details/confessionsofnat00turn)
 
 * Text Transcribed for Internet Archive search in 2013 with [ABBYY FineReader 8.0](https://archive.org/details/confessionsofnat00turn) 
+
+
 ["Little Red Riding Hood"*The Blue Fairy Book* Ed. Andrew Lang. London: Longman, Green, and Co., 1889.](LRRH.md) 
+* details coming soon
 
 # Editors' Notes
 [Fall 2021](fall2021notes.md)
 [Fall 2022](fall2022notes.md)
 
-
-# License
-CC BY 4.0
 
 # License
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
